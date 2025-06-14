@@ -1,0 +1,1 @@
+Sensor Fault Detection End to End Machine Learning Project with Deployment in AWS cloud.
