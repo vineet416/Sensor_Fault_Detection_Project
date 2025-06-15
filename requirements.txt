@@ -6,6 +6,8 @@ scikit-learn
 xgboost
 
 
+
+pymongo
 PyYAML
 boto3==1.26.105
 
