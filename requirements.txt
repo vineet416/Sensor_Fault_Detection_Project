@@ -1,5 +1,11 @@
 ipykernel
 pandas
+seaborn
+matplotlib
+scikit-learn
+xgboost
+
+
 PyYAML
 boto3==1.26.105
 
