@@ -12,3 +12,5 @@ MONGO_DB_URL = "mongodb+srv://vineet:12345@cluster0.j5weyqm.mongodb.net/?retryWr
 
 MODEL_FILE_NAME = "model"
 MODEL_FILE_EXTENSION = ".pkl"
+
+artifact_folder = "artifacts"
