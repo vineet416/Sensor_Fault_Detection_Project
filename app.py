@@ -8,6 +8,7 @@ from src.pipeline.predict_pipeline import PredictionPipeline
 
 
 
+
 app = Flask(__name__)
 
 

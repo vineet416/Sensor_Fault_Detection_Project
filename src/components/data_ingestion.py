@@ -69,7 +69,7 @@ class DataIngestion:
         logging.info("Entered initiate_data_ingestion method of DataIngestion class")
 
         try:
-            feature_store_file_path = self.export_data_into_feature_store_file_path
+            feature_store_file_path = self.export_data_into_feature_store_file_path()
 
             logging.info("Got the data from MongoDB")
 
